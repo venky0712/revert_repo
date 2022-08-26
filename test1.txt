@@ -1,2 +1,4 @@
 Pull
 fetch
+devops
+linux
